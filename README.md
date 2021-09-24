@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # project1
 
 A new Flutter project.
@@ -14,3 +15,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tugas-01_192410102
+192410102077
+Rafly Rizqi Ramadhan
+Pemrogaman Mobile C
+>>>>>>> 140fd3fc5fccd5c566c2ff7c30914f5a4fab2854
